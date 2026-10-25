@@ -18,6 +18,14 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Version 1.3.0
+
+- Kopierbutton für jedes Inseratsfeld, eBay-Merkmale und ergänzende Artikeldaten.
+- Vollständiges automatisches Speichern: Fotos, Analyse, Rückfragen, Verkaufsangaben und beide Plattform-Inserate.
+- Änderungen werden automatisch nachgesichert; bei Ansichtswechsel sofort.
+- „Fertig & zum Inventar“ schließt den Assistenten ab. Später über „Öffnen / bearbeiten“ wiederverwenden.
+- Keine Duplikate beim Bearbeiten oder Wiederöffnen; bisheriger Status bleibt erhalten.
+
 ## Version 1.2.0
 
 - Google-Anmeldung unter Profil mit nativer Google-Kontoauswahl.
