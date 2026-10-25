@@ -18,6 +18,14 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Version 1.2.0
+
+- Google-Anmeldung unter Profil mit nativer Google-Kontoauswahl.
+- Kontoanzeige, Kontowechsel und Abmeldung; Anmeldung bleibt optional.
+- Name und E-Mail werden separat auf dem Gerät gespeichert und nicht an KI-Anbieter übertragen.
+- Inventar und KI-Schlüssel bleiben beim Update und bei der Google-Abmeldung erhalten.
+- Keine Cloud-Synchronisierung. Vollständigen Google-Login mit dem eigenen Konto bitte am Handy prüfen.
+
 ## Version 1.1.0
 
 - Modernes Design mit hellen Karten, abgerundeten Feldern und violetten Akzenten.
