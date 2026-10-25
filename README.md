@@ -18,6 +18,14 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Version 1.4.0
+
+- Scan zeigt immer „Neuen Verkauf starten“ und ausschließlich offene Verkäufe zum Fortsetzen.
+- Gespeicherte Artikel erscheinen nur im Inventar.
+- Neue Verkäufe starten leer und überschreiben keine offenen Entwürfe.
+- Fotos, Antworten und Notizen unfertiger Verkäufe bleiben lokal erhalten.
+- Inventar mit umschaltbarer Karten- und kompakter Listenansicht; Auswahl bleibt gespeichert.
+
 ## Version 1.3.0
 
 - Kopierbutton für jedes Inseratsfeld, eBay-Merkmale und ergänzende Artikeldaten.
