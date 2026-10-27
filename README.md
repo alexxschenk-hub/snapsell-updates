@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.0 – willhaben & JEV
+
+**[Vorabversion herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.0/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.0)
+
+Einmalige willhaben-Anmeldung im App-Browser und JEV-Formularhilfe mit eigenem TypeSafe-Schlüssel. Veröffentlichung manuell. Der vollständige Live-Ablauf bis zum gespeicherten willhaben-Entwurf ist noch nicht bestätigt; Kategorieauswahl, Fotos und Pflichtangaben können manuelle Schritte benötigen. Die Automatik läuft bei geöffneter App. Der SnapSell-Updater berücksichtigt diese Vorabversion. 1.4.0 bleibt das neueste stabile Release.
+
 ## Version 1.4.0
 
 - Scan zeigt immer „Neuen Verkauf starten“ und ausschließlich offene Verkäufe zum Fortsetzen.
