@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.2 – Gemma lokal als zusätzliche KI
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.2/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.2)
+
+Optionale lokale Fotoanalyse und Inseratserstellung mit Gemma 4 E2B, neben integrierter KI und eigenen Gemini-/OpenAI-Anbindungen. Einrichtung unter Profil → Deine KI-Anbindung; einmalig ca. 2,6 GB Modelldownload. Aktivierung erst nach dem Hinweis auf mögliche Qualitätseinbußen. Lokal ohne API-Key und App-Credits; kein automatischer Cloud-Wechsel. Noch kein echter Galaxy-S24-Test, daher Vorabversion. Der App-Updater findet diese Version.
+
 ## Vorabversion 1.5.1 – lokale Formularhilfe ohne JEV-Key
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.1/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.1)
