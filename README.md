@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.1 – lokale Formularhilfe ohne JEV-Key
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.1/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.1)
+
+Laya Multilingual INT8 und lokale Regeln ersetzen die JEV-API auf Android. Nach dem Update unter Profil → Lokales Formularmodell einrichten einmalig rund 358 MB herunterladen, ohne API-Key. Formularentscheidungen laufen danach auf dem Gerät; willhaben benötigt weiterhin Internet. Fotoanalyse und Inseratstext-Erstellung behalten ihre bisherige KI-Anbindung. Veröffentlichung manuell, vollständiger willhaben-Live-Test weiterhin offen. Der App-Updater findet diese Vorabversion. 1.4.0 bleibt das neueste stabile Release.
+
 ## Vorabversion 1.5.0 – willhaben & JEV
 
 **[Vorabversion herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.0/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.0)
