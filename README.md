@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.4 – Formular ausfüllen und Wischen zum Löschen
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.4/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.4)
+
+Bekannte leere Textfelder werden nach dem gespeicherten Weg zuerst ausgefüllt, unabhängig von unbekannten Zusatzfeldern oder dem Foto-Upload. Verbesserte Unterstützung gesteuerter Formulare und Prüfung übernommener Eingaben. Offene Verkäufe können gelöscht werden. Bei Scan-Entwürfen und im Inventar (Karten/Liste) zeigt Wischen nach links eine rote Löschaktion, mit anschließender Bestätigung. Android-Tests mit Formular-Fixtures und echten Wischgesten; konkrete willhaben-Seite auf dem S24 noch zu prüfen. Veröffentlichung manuell. 1.4.0 bleibt das neueste stabile Release.
+
 ## Vorabversion 1.5.3 – Weg zur neuen Anzeige lernen
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.3/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.3)
