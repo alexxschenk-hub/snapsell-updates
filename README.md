@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.3 – Weg zur neuen Anzeige lernen
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.3/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.3)
+
+Den Weg zur leeren neuen willhaben-Anzeige einmal selbst antippen und speichern. Wiederholung der gemerkten Navigation, Route testen/ändern/löschen, neuer Entwurfsversuch nach einem Abbruch und zeitlich begrenzte manuelle Übernahme bei Hängern. Keine Aufzeichnung eingegebener Feldwerte. Kategorie-/Artikeldaten und Veröffentlichung bleiben getrennt; Veröffentlichung manuell. Echte Klicktests im Android-Emulator bestanden, konkreter willhaben-Live-Weg auf dem S24 noch zu prüfen.
+
 ## Vorabversion 1.5.2 – Gemma lokal als zusätzliche KI
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.2/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.2)
