@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.6 – direkt starten, Felder einzeln übertragen und speichern
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.6/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.6)
+
+Ein Startklick im Inserat genügt. Titel, Preis und Beschreibung werden einzeln übertragen und nach Seitenänderungen geprüft. Unbekannte Zusatzfelder blockieren das Speichern nicht; ein blockierter Foto-Upload führt zu einem gespeicherten Textentwurf mit Hinweis auf fehlende Fotos. Ein Speicherklick, danach Warten auf willhaben-Bestätigung oder neu zugewiesene Entwurfsnummer. Live-Speichertest in Chrome mit erhaltenen Inhalten nach Neuladen; native Tests mit Start-Intent und simuliertem Feld-Neuaufbau. Vollständiger S24-Ablauf einschließlich Fotos bleibt zu prüfen. Veröffentlichung manuell.
+
 ## Vorabversion 1.5.5 – am echten willhaben-Formular geprüft
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.5/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.5)
