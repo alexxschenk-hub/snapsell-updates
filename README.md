@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.9 – Entwurf intern öffnen, Tastatur während Automatik verbergen
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.9/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.9)
+
+Die automatische Texteingabe bleibt aktiv, während die Bildschirmtastatur im Ladefenster unterdrückt wird. Beide Entwurfslinks öffnen jetzt einen Browser direkt in SnapSell mit demselben WebView-Sitzungsspeicher wie die Automatik. Oben nur Zurück, keine Fortschrittskarte. Manuelle Texteingabe im Entwurf bleibt möglich. Native Prüfung auf Android 16 mit verborgenem IME, unverändertem Entwurfslink und übernommener Test-Sitzung bestanden. Samsung-Tastatur am S24 noch am Gerät zu prüfen. Fotos pausiert, Veröffentlichung manuell.
+
 ## Vorabversion 1.5.8 – Entwurf speichern mit Ladefenster und Link
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.8/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.8)
