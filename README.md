@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.5 – am echten willhaben-Formular geprüft
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.5/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.5)
+
+Weg und Formular in angemeldetem Chrome sowie bei Smartphone-Breite geprüft. Erkennung der leeren Rich-Text-Beschreibung korrigiert, mobiler „Speichern“-Entwurfsbutton unterstützt, direkte kostenlose Marktplatz-Route als Standard. Gespeicherter eigener Weg bleibt vorrangig. Android-WebView-Test mit nachgebildeter echter Formularstruktur bestanden; vollständiger Live-Ablauf auf dem S24 weiterhin offen. Kategorie und Zusatzangaben können manuelle Schritte benötigen. Veröffentlichung manuell.
+
 ## Vorabversion 1.5.4 – Formular ausfüllen und Wischen zum Löschen
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.4/SnapSell.apk)** · [Hinweise und Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.4)
