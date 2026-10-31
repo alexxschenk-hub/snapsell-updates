@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.8 – Entwurf speichern mit Ladefenster und Link
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.8/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.8)
+
+Neue Schaltfläche „Willhaben Entwurf speichern“. Die Automatik arbeitet hinter einem Ladefenster mit Fortschrittsbalken und Schrittinformationen. Danach erscheint der direkte Entwurfslink, auch dauerhaft beim Inserat. Öffnen bevorzugt die willhaben-App, soweit sie diesen Link unterstützt, sonst Androids Standardbrowser. Im normalen Test-/Anmeldebrowser nur noch Zurück, mit mehr Abstand oben. Fotos bleiben pausiert, Veröffentlichung manuell. Native Prüfung über die tatsächliche neue Schaltfläche einschließlich verdeckter WebView und gespeicherten Ergebnislinks.
+
 ## Vorabversion 1.5.7 – mobile Texteingabe und zentrale Schrittanzeige
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.7/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.7)
