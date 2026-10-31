@@ -18,6 +18,12 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.5.7 – mobile Texteingabe und zentrale Schrittanzeige
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.7/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.7)
+
+Preis, Titel und Beschreibung werden zusätzlich über die native Android-Texteingabe der WebView übertragen. Fotos sind vorerst vollständig aus dem Übertragungsablauf entfernt. Oben zeigt eine zentrale Statuskarte den aktuellen Navigations-, Kopier- oder Speicherschritt sowie Fortschrittshäkchen für die drei Felder. Mobile Browseransicht bei 412 Pixeln geprüft; native Android-Tests akzeptieren echte Editorereignisse und verwerfen künstliche JavaScript-Ereignisse bei Preis und Beschreibung. Vollständige Live-Prüfung auf dem S24 bleibt offen. Veröffentlichung manuell.
+
 ## Vorabversion 1.5.6 – direkt starten, Felder einzeln übertragen und speichern
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.6/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.6)
