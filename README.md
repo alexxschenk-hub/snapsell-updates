@@ -18,6 +18,14 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.6.0-beta.1 – weniger Schritte und eine gemeinsame Artikelübersicht
+
+**[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.6.0-beta.1/SnapSell.apk)** · [Hinweise](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.6.0-beta.1)
+
+Auf dem Startbildschirm direkt fotografieren oder Galerie wählen, ohne vorher die KI einzurichten. Unter „Artikel“ stehen offene und fertige Verkäufe zusammen. Im Vorschlag sind Titel, Preis und Beschreibung direkt bearbeitbar; eBay, Kopieren/Teilen und weitere Artikeldaten aufklappbar. Das Profil ist vereinfacht. Lokales Speichern und ein bestätigter willhaben-Entwurf werden klar unterschieden. Fotos bleiben bis zur Analyse lokal; vor dem ersten Cloud-Fotoversand wird die Zustimmung zum gewählten Anbieter eingeholt.
+
+Die willhaben-Automatik mit Ladefenster, verborgener Tastatur und internem Entwurfsbrowser bleibt erhalten. Fotos auf willhaben weiterhin manuell ergänzen; Veröffentlichung immer manuell. **Die integrierte KI ist noch nicht aktiviert**, da Backend-Hosting und Betreiber-Konfiguration fehlen. Bestehende eigene KI-Anbindungen bzw. optional Gemma lokal weiter nutzbar. Diese Version ist für den Test der vereinfachten Bedienung; noch keine Play-Veröffentlichung und keine Käufe. Android-Emulatortests, keine neue Live-Anzeige erstellt.
+
 ## Vorabversion 1.5.9 – Entwurf intern öffnen, Tastatur während Automatik verbergen
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.5.9/SnapSell.apk)** · [Prüfstand](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.5.9)
