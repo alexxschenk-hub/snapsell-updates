@@ -18,6 +18,16 @@ Die App prüft bei aktivierter automatischer Suche höchstens einmal täglich be
 
 Android 8.0 oder neuer. Diese APK ist eine direkt verteilte, mit dem bisherigen Testschlüssel signierte Version. Nur über die bestehende native App `at.snapsell.app` aktualisierbar; die frühere Expo/PWA-App ist ein anderes Paket.
 
+## Vorabversion 1.6.0-beta.2 – Puter als zusätzliche KI-Option
+
+**[APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.6.0-beta.2/SnapSell.apk)** · [Testhinweise](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.6.0-beta.2)
+
+Profil → KI und Konto verwalten → „Puter · Nutzerkonto · ohne API-Key“ auswählen und speichern. Über „Puter anmelden / Konto verwalten“ anmelden, alternativ beim ersten Analysieren. Standardmodell Gemini 2.5 Flash-Lite; optional GPT-4.1 mini oder GPT-5 nano. Danach Artikel wie gewohnt fotografieren, analysieren und Inserate erstellen.
+
+Puter verwendet das Konto des jeweiligen Nutzers, keine SnapSell-Betreiber-Schlüssel und keine SnapSell-Credits. Das kostenlose Kontingent und mögliche Kosten bestimmt Puter; drei Gratis-Scans sind nicht garantiert. Vor Fotoübertragung erscheint eine Zustimmung. Kein automatischer Wechsel zu einem anderen Anbieter. Bei Problemen mit Google-Anmeldung im eingebetteten Fenster den direkten Puter-Zugang verwenden.
+
+Android-Test mit nachgebildetem SDK für Fotoanalyse, Inseratserstellung, Sitzung und Kontingentfehler bestanden. Echter SDK und Anmeldefenster laden ebenfalls. Keine Zugangsdaten eingegeben und keine echte KI-Anfrage durchgeführt; vollständige Anmeldung/Analyse und Verbrauch sind mit deinem Nutzerkonto auf dem Smartphone zu testen. Andere KI-Anbindungen und willhaben-Automatik bleiben erhalten. Vorabversion, keine Play-Veröffentlichung.
+
 ## Vorabversion 1.6.0-beta.1 – weniger Schritte und eine gemeinsame Artikelübersicht
 
 **[Neue APK herunterladen](https://github.com/alexxschenk-hub/snapsell-updates/releases/download/v1.6.0-beta.1/SnapSell.apk)** · [Hinweise](https://github.com/alexxschenk-hub/snapsell-updates/releases/tag/v1.6.0-beta.1)
